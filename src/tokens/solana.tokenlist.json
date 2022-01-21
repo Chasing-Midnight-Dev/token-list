@@ -85479,8 +85479,22 @@
       "name": "Chiwa Bones",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2S3hhwCnDkFN2zHYc7SBzhLuHUevMwmgUCzq3ShDsUb5/logo.png"
+    },
+    {
+      "chainId": 101,
+      "address": "Ef8U4a9MJUPPmaUeHMvcnZoLsVw3QwTeEyZgWKvn7Mnj",
+      "symbol": "CM4K",
+      "name": "ChasingMidnight Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Chasing-Midnight-Dev/CMToken/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/ChasingMidnight_/"
+      }
     }
-  ],
+    ],
   "version": {
     "major": 0,
     "minor": 3,
